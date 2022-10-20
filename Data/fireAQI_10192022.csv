@@ -1,0 +1,59 @@
+State,City,AQI,Level
+Oregon,Albany,117,USG
+Oregon,Applegate Valley,NA,NA
+Oregon,Ashland,35,Good
+Oregon,Baker City,79,Moderate
+Oregon,Beaverton,165,Unhealthy
+Oregon,Bend and Redmond,33,Good
+Oregon,Brookings,67,Moderate
+Oregon,Burns,16,Good
+Oregon,Cave Junction,39,Good
+Oregon,Chiloquin,15,Good
+Oregon,Clackamas,158,Unhealthy
+Oregon,Coos,157,Unhealthy
+Oregon,Cottage Grove,84,Moderate
+Oregon,Crater Lake,13,Good
+Oregon,Dallas,144,USG
+Oregon,Enterprise,24,Good
+Oregon,Estacada,89,Moderate
+Oregon,Eugene,96,Moderate
+Oregon,Florence,63,Moderate
+Oregon,Grants Pass,40,Good
+Oregon,Hermiston,69,Moderate
+Oregon,Hillsboro,173,Unhealthy
+Oregon,Hood River,49,Good
+Oregon,John Day,23,Good
+Oregon,Klamath Falls,27,Good
+Oregon,La Grande,115,USG
+Oregon,La Pine,24,Good
+Oregon,Lakeview,24,Good
+Oregon,Lyons,104,USG
+Oregon,Madras,43,Good
+Oregon,Medford,45,Good
+Oregon,Multorpor,NA,NA
+Oregon,North Santiam Canyon,92,Moderate
+Oregon,Oakridge,245,Very Unhealthy
+Oregon,Ontario,45,Good
+Oregon,Pendleton,62,Moderate
+Oregon,Portland,173,Unhealthy
+Oregon,Prineville,29,Good
+Oregon,Roseburg,175,Unhealthy
+Oregon,Salem,157,Unhealthy
+Oregon,Sauvie Island,174,Unhealthy
+Oregon,Shady Cove,36,Good
+Oregon,Sisters,42,Good
+Oregon,Sweet Home,91,Moderate
+Oregon,Dalles,52,Moderate
+Oregon,Tillamook,NA,NA
+Oregon,Toledo,62,Moderate
+Colorado,Aspen,33,Good
+Colorado,Colorado River Valley,19,Good
+Colorado,Colorado Springs,39,Good
+Colorado,Denver-Boulder,49,Good
+Colorado,Fort Collins,33,Good
+Colorado,Four Corners,38,Good
+Colorado,Grand Junction,36,Good
+Colorado,Greeley,34,Good
+Colorado,Mesa Verde,38,Good
+Colorado,Rocky Mountain National Park,35,Good
+Colorado,South Ute Indian Reserve,38,Good
