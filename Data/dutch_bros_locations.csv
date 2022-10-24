@@ -1,0 +1,497 @@
+city,state,zipcode
+Apache Junction,AZ,85120
+Buckeye,AZ,85326
+Bullhead City,AZ,86442
+Casa Grande,AZ,85122
+Cave Creek ,AZ,85331
+Chandler,AZ,85226
+Cottonwood,AZ,86326
+Flagstaff,AZ,86001
+Flagstaff,AZ,86004
+Gilbert,AZ,85233
+Gilbert,AZ,85234
+Gilbert,AZ,85297
+Gilbert,AZ,85296
+Glendale,AZ,85308
+Glendale,AZ,85305
+Goodyear,AZ,85395
+Goodyear,AZ,85338
+Green Valley,AZ,85614
+Kingman,AZ,86409
+Maricopa,AZ,85139
+Mesa,AZ,85203
+Mesa,AZ,85206
+Mesa,AZ,85210
+Mesa,AZ,85209
+Oro Valley,AZ,85704
+Payson,AZ,85541
+Peoria,AZ,85381
+Peoria,AZ,85226
+Phoenix,AZ,85032
+Phoenix,AZ,85014
+Phoenix,AZ,85020
+Phoenix,AZ,85032
+Phoenix,AZ,85016
+Phoenix,AZ,85048
+Prescott,AZ,86301
+Prescott Valley,AZ,86314
+Queen Creek,AZ,85142
+San Tan Valley,AZ,85140
+Scottsdale,AZ,85257
+Scottsdale,AZ,85254
+Scottsdale,AZ,85255
+Scottsdale,AZ,85260
+Scottsdale,AZ,85250
+Sierra Vista,AZ,85635
+Surprise,AZ,85374
+Tempe,AZ,85281
+Tempe,AZ,85282
+Tempe,AZ,85283
+Tucson,AZ,85742
+Tucson,AZ,85741
+Tucson,AZ,85712
+Tucson,AZ,85712
+Tucson,AZ,85746
+Tucson,AZ,85713
+Tucson,AZ,85711
+Tucson,AZ,85748
+Tucson,AZ,85747
+Tucson,AZ,85712
+Tucson ,AZ,85716
+Yuma ,AZ,85364
+Yuma ,AZ,85364
+Anderson,CA,96007
+Antelope,CA,95843
+Apple Valley,CA,92308
+Arroyo Grande,CA,93420
+Auburn,CA,95602
+Auburn,CA,95603
+Bakersfield,CA,93305
+Bakersfield,CA,93312
+Bakersfield,CA,93304
+Brentwood,CA,94513
+Carmichael,CA,95608
+Chico,CA,95928
+Chico,CA,95928
+Chico,CA,95928
+Chico,CA,95928
+Chico,CA,95973
+Citrus Heights,CA,95610
+Citrus Heights,CA,95621
+Clovis,CA,93611
+Crescent City,CA,95531
+Davis,CA,95616
+Dixon,CA,95620
+Dixon,CA,95620
+Elk Grove,CA,95624
+Elk Grove,CA,95624
+Eureka,CA,95501
+Eureka,CA,95501
+Fair Oaks,CA,95628
+Fairfield,CA,94533
+Folsom,CA,95630
+Fresno,CA,93711
+Fresno,CA,93711
+Fresno,CA,93726
+Fresno,CA,93703
+Fresno,CA,93720
+Fresno,CA,93620
+Fresno,CA,93711
+Galt,CA,95632
+Granite Bay,CA,95746
+Grass Valley,CA,95945
+Hanford,CA,93230
+Indio,CA,92201
+La Quinta,CA,92253
+Lemoore,CA,93245
+Live Oak,CA,95953
+Lodi,CA,95242
+Lodi,CA,95240
+Los Banos,CA,93635
+Manteca,CA,95337
+Merced,CA,95341
+Modesto,CA,95350
+Modesto,CA,95351
+Napa,CA,94558
+Oakdale,CA,95361
+Oakley,CA,95461
+Orland,CA,95963
+Oroville,CA,95966
+Palo Cedro,CA,96073
+Paradise,CA,95969
+Red Bluff,CA,96080
+Red Bluff,CA,96080
+Redding,CA,96002
+Redding,CA,96003
+Redding,CA,96002
+Redding,CA,96001
+Redding,CA,96002
+Redding,CA,96001
+Ripon,CA,95366
+Rocklin,CA,95677
+Roseville,CA,95661
+Roseville,CA,95661
+Sacramento,CA,95823
+Sacramento,CA,95841
+Sacramento,CA,95834
+Sacramento,CA,95821
+Sacramento,CA,95820
+Sanger,CA,93657
+Sanger ,CA,93657
+Santa Maria,CA,93454
+Santa Rosa,CA,95401
+Sonoma,CA,95476
+Stockton,CA,95210
+Stockton,CA,95210
+Stockton,CA,95204
+Stockton,CA,95202
+Turlock,CA,95382
+Vacaville,CA,95687
+Vacaville,CA,95687
+Victorville,CA,92395
+Visalia,CA,93277
+Visalia,CA,93277
+Woodland,CA,95776
+Woodland,CA,95695
+Woodland,CA,95776
+Yuba City,CA,95991
+Yucaipa,CA,92399
+Aurora,CO,80013
+Aurora,CO,80016
+Castle Rock,CO,80108
+Colorado Springs,CO,80918
+Colorado Springs,CO,80907
+Colorado Springs,CO,80921
+Colorado Springs,CO,80923
+Colorado Springs,CO,80920
+Colorado Springs,CO,80903
+Colorado Springs,CO,80903
+Colorado Springs,CO,80909
+Colorado Springs,CO,80904
+Colorado Springs,CO,80915
+Commerce City,CO,80022
+Conifer,CO,80433
+Denver,CO,80239
+Fort Collins,CO,80525
+Fort Collins,CO,80525
+Fort Collins,CO,80521
+Greeley,CO,80634
+Lakewood,CO,80214
+Lakewood,CO,80228
+Longmont,CO,80501
+Loveland,CO,80538
+Loveland,CO,80537
+Northglenn,CO,80234
+Parker,CO,80134
+Thornton,CO,80260
+Westminister,CO,80234
+Windsor,CO,80550
+Ammon,ID,83406
+Boise,ID,83705
+Boise,ID,83706
+Boise,ID,83709
+Boise,ID,83713
+Boise,ID,83705
+Boise,ID,83704
+Boise,ID,83709
+Boise,ID,83702
+Boise,ID,83702
+Caldwell,ID,83605
+Caldwell,ID,83607
+Coeur D'Alene,ID,83815
+Coeur D'Alene,ID,83815
+Eagle ,ID,83616
+Garden City,ID,83714
+Idaho Falls,ID,83401
+Idaho Falls,ID,83404
+Lewiston,ID,83501
+Lewiston,ID,83501
+Meridian,ID,83642
+Meridian,ID,83642
+Meridian,ID,83642
+Meridian,ID,83646
+Meridian,ID,83642
+Moscow,ID,83843
+Mountain Home,ID,83647
+Nampa,ID,83687
+Nampa,ID,83686
+Nampa,ID,83651
+Nampa,ID,83651
+Payette,ID,83661
+Post Falls,ID,83854
+Twin Falls,ID,83301
+Twin Falls,ID,83301
+Albuquerque,NM,97121
+Albuquerque,NM,87112
+Albuquerque,NM,87112
+Bernalillio,NM,87004
+Las Cruces,NM,88011
+Rancho,NM,87124
+Rio Rancho,NM,87124
+Carson City,NV,89701
+Carson City,NV,89701
+Carson City,NV,89703
+Henderson,NV,89074
+Las Vegas,NV,89121
+Las Vegas,NV,89123
+Las Vegas,NV,89123
+Las Vegas,NV,89139
+Las Vegas,NV,89014
+Las Vegas,NV,89107
+Las Vegas,NV,89149
+Las Vegas,NV,89130
+Las Vegas,NV,89146
+Las Vegas,NV,89139
+Las Vegas,NV,89113
+Las Vegas,NV,89118
+Las Vegas,NV,89147
+Las Vegas,NV,89146
+Las Vegas,NV,89030
+Las Vegas,NV,89102
+Las Vegas,NV,89031
+Las Vegas,NV,89031
+Reno,NV,89502
+Reno,NV,89511
+Reno,NV,89521
+Midwest City,OK,73110
+Albany,OR,97322
+Albany,OR,97322
+Albany,OR,97322
+Ashland,OR,97520
+Ashland,OR,97520
+Astoria,OR,97103
+Beaverton,OR,97007
+Beaverton,OR,97223
+Beaverton,OR,97221
+Beaverton,OR,97007
+Bend,OR,97701
+Bend,OR,97701
+Bend,OR,97701
+Bend,OR,97701
+Bend,OR,97701
+Bend,OR,97701
+Bend,OR,97459
+Brookings,OR,97415
+Brookings,OR,97415
+Canby,OR,97013
+Cave Junction,OR,97523
+Central Point,OR,97502
+Central Point,OR,97502
+Central Point,OR,97502
+Coos Bay,OR,97420
+Coos Bay,OR,97420
+Cornelius,OR,97133
+Corvallis,OR,97330
+Corvallis,OR,97330
+Corvallis,OR,97330
+Corvallis,OR,97331
+Corvallis,OR,97333
+Cottage Grove,OR,97424
+Dallas,OR,97338
+Eugene,OR,97403
+Eugene,OR,97401
+Eugene,OR,97402
+Eugene,OR,97401
+Eugene,OR,97404
+Eugene,OR,97402
+Eugene,OR,97401
+Eugene,OR,97402
+Florence,OR,97439
+Forest Grove,OR,97116
+Grants Pass,OR,97526
+Grants Pass,OR,97527
+Grants Pass,OR,97526
+Grants Pass,OR,97526
+Grants Pass,OR,97526
+Grants Pass,OR,97526
+Grants Pass,OR,97527
+Grants Pass,OR,97527
+Grants Pass,OR,97526
+Gresham,OR,97030
+Gresham,OR,97030
+Gresham,OR,97233
+Gresham,OR,97233
+Happy Valley,OR,97086
+Hermiston,OR,97838
+Hillsboro,OR,97123
+Hillsboro,OR,97123
+Hillsboro,OR,97124
+Hillsboro,OR,97123
+Hood River,OR,97031
+Junction City,OR,97448
+Keizer,OR,97303
+Klamath Falls,OR,97603
+Klamath Falls,OR,97603
+Klamath Falls,OR,97603
+Klamath Falls,OR,97603
+Klamath Falls,OR,97601
+LaGrande,OR,97850
+Lebanon,OR,97355
+Lebanon,OR,97355
+Lincoln City,OR,97367
+McMinnville,OR,97128
+McMinnville,OR,97128
+McMinnville,OR,97128
+Medford,OR,97501
+Medford,OR,97504
+Medford,OR,97501
+Medford,OR,97501
+Medford,OR,97501
+Medford,OR,97501
+Medford,OR,97504
+Medford,OR,97504
+Medford,OR,97501
+Medford,OR,97504
+Medford,OR,97504
+Milton-Freewater,OR,97862
+Monmouth,OR,97361
+Newberg,OR,97132
+Newberg,OR,97132
+Newport,OR,97366
+Ontario,OR,97914
+Oregon City,OR,97045
+Oregon City,OR,97045
+Oregon City,OR,97045
+Pendleton,OR,97801
+Phoenix,OR,97535
+Portland,OR,97236
+Portland,OR,97236
+Portland,OR,97204
+Portland,OR,97210
+Portland,OR,97209
+Portland,OR,97218
+Portland,OR,97206
+Portland,OR,97202
+Portland,OR,97220
+Portland,OR,97232
+Redmond,OR,97756
+Redmond,OR,97756
+Redmond,OR,97756
+Roseburg,OR,97470
+Roseburg,OR,97470
+Roseburg,OR,97470
+Roseburg,OR,97470
+Roseburg,OR,97470
+Roseburg,OR,97471
+Salem,OR,97302
+Salem,OR,97302
+Salem,OR,97302
+Salem,OR,97317
+Salem,OR,97306
+Salem,OR,97301
+Salem,OR,97305
+Salem,OR,97304
+Salem,OR,97305
+Salem,OR,97303
+Sandy,OR,97055
+Scappoose,OR,97056
+Seaside,OR,97138
+Sherwood,OR,97140
+Silverton,OR,97381
+Sisters,OR,97759
+Springfield,OR,97477
+Springfield,OR,97478
+Springfield,OR,97477
+Springfield,OR,97478
+Springfield,OR,97477
+St. Helens,OR,97051
+Sutherlin,OR,97479
+Sweet Home,OR,97386
+The Dalles,OR,97058
+Tigard,OR,97223
+Tillamook,OR,97141
+Tualatin,OR,97062
+West Linn,OR,97068
+White City,OR,97503
+White City,OR,97503
+Wilsonville,OR,97070
+Woodburn,OR,97071
+Woodburn,OR,97071
+Bryan,TX,77808
+College Station,TX,77845
+College Station,TX,77845
+Euless,TX,76039
+Fort Worth,TX,76133
+Killeen,TX,76549
+Lubbock,TX,79407
+Lubbock,TX,79414
+McKinney,TX,75071
+Pantego,TX,76013
+Plano,TX,75023
+Round Rock,TX,78664
+Spring,TX,
+Spring,TX,77388
+Temple,TX,76502
+Centerville,UT,84014
+Draper,UT,84020
+East Sandy,UT,84070
+George,UT,84790
+Murray,UT,84107
+Provo,UT,84604
+St. George,UT,84770
+Taylorsville,UT,84604
+West Jordan,UT,84088
+West Valley City,UT,84119
+Aberdeen,WA,98520
+Battle Ground,WA,98601
+Bremerton,WA,98310
+Camas,WA,98607
+Centralia,WA,98531
+Chehalis,WA,98532
+Clarkston,WA,99403
+Ellensburg,WA,98926
+Everett,WA,98201
+Federal Way,WA,98003
+Fife,WA,98424
+Graham,WA,98338
+Kelso,WA,98626
+Kennewick,WA,99336
+Kennewick,WA,99336
+Kennewick,WA,99336
+Lacey,WA,98516
+Lakewood,WA,98499
+Lakewood,WA,98498
+Longview,WA,98632
+Longview,WA,98632
+Marysville,WA,98270
+Moses Lake,WA,98837
+Olympia,WA,98516
+Pasco,WA,99301
+Pasco,WA,99301
+Port Orchard,WA,98366
+Prosser,WA,99350
+Puyallup,WA,98373
+Renton,WA,98057
+Richland,WA,99352
+Rochester,WA,98579
+Spokane,WA,99201
+Spokane,WA,99208
+Spokane,WA,99203
+Spokane,WA,99202
+Spokane,WA,99218
+Spokane,WA,99208
+Spokane,WA,99207
+Spokane,WA,99224
+Spokane Valley,WA,99206
+Spokane Valley,WA,99206
+Sunnyside,WA,98944
+Tumwater,WA,98501
+Vancouver,WA,98682
+Vancouver,WA,98682
+Vancouver,WA,98684
+Vancouver,WA,98683
+Vancouver,WA,98661
+Vancouver,WA,98664
+Vancouver,WA,98685
+Vancouver,WA,98665
+Vancouver,WA,98686
+Vancouver,WA,98662
+Walla Walla,WA,99362
+Walla Walla,WA,99362
+Wenatchee,WA,98801
+Wenatchee,WA,98802
+Wenatchee,WA,98801
+Woodland,WA,98674
+Yakima,WA,98908
+Yakima,WA,98903
+Yakima,WA,98901
